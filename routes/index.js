@@ -18,7 +18,7 @@ router.get('/new', (req, res, next) => {
 
 /* POST new */
 router.post('/new', (req, res) => {
-  let nome = req.body.name;
+  let nome = req.body.nome;
   let idade = parseInt(req.body.idade);
   global.db.insertOne({nome, idade}, (err, result) => {
     if(err) {

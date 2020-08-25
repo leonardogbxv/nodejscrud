@@ -12,3 +12,4 @@ $ npm install
 $ npm start
 ```
 
+**&copy; [Luiz Duarte](https://github.com/luiztools)**

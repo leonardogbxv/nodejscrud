@@ -12,9 +12,9 @@ $ npm install
 $ npm start
 ```
 
->Note: Before start, load an instance of MongoDB server on your localhost.
+Note: Before start, load an instance of MongoDB server on your localhost.
 ```bash
-(inside your '.>mongodb>bin' subfolder)
+"(inside your '.>mongodb>bin' subfolder)"
 $ mongod --dbpath c:nodejscrud\data
 ```
 

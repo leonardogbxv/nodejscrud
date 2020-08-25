@@ -11,5 +11,4 @@ $ cd nodejscrud
 $ npm install
 $ npm start
 ```
-
-**&copy; [Luiz Duarte](https://github.com/luiztools)**
+> CRUD tutorial by **&copy; [Luiz Duarte](https://github.com/luiztools)**
